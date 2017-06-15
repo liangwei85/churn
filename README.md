@@ -8,3 +8,6 @@ Code accompanying blog post which can be found [here](http://blog.yhathq.com/pos
 `churn_model.py` - A deployable, batch mode compatoble Yhat model for predicting customer churn.
 
 `data/churn.csv` - Dataset used in blog. Originally published accompanying [_Discovering Knowledge in Data_](http://www.dataminingconsultant.com/DKD.htm) (Larose; 2004)
+
+
+hello liang wei
